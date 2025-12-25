@@ -1,4 +1,4 @@
-# Ludo Game App Clone
+# Ludo Game App 
 
 A fully functional clone of the classic Ludo game, built with React Native. Challenge your friends or play against the computer in this engaging board game.
 
@@ -16,7 +16,7 @@ A fully functional clone of the classic Ludo game, built with React Native. Chal
 - **Animated API:** To create smooth animations and transitions.
 
 ## Screenshots
-![Uploading Screenshot 2025-12-25 at 6.42.21 PM.png…]()
+![Screenshot 2025-12-25 at 6 42 21 PM](https://github.com/user-attachments/assets/93a35ad2-affe-4450-97fe-c616f204a46c)
 
 
 
