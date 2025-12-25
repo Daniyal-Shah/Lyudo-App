@@ -16,10 +16,10 @@ A fully functional clone of the classic Ludo game, built with React Native. Chal
 - **Animated API:** To create smooth animations and transitions.
 
 ## Screenshots
+![Uploading Screenshot 2025-12-25 at 6.42.21 PM.png…]()
 
-<img src="https://github.com/user-attachments/assets/c11e7a78-f65b-4078-8e7b-4248771ee312" alt="Screenshot-1" width="300" />
-<img src="https://github.com/user-attachments/assets/bc8981c0-9723-4e21-b768-aea5fa1f6ae8" alt="Screenshot-2" width="300" />
-<img src="https://github.com/user-attachments/assets/ca8dd864-a6da-46c5-bbcf-c695998dbf0a" alt="Screenshot-3" width="300" />
+
+
 
 ## Demo Video
 
